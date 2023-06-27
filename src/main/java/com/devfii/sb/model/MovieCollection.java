@@ -1,5 +1,5 @@
 package com.devfii.sb.model;
 
-public class Production {
+public class MovieCollection {
 
 }
